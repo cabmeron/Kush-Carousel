@@ -3,4 +3,4 @@
 * UI Carousel for Marjiuana Strains
 --------------
 -------
-![alt text](https://github.com/cabmeron/Kush-Carousel/blob/main/example.png)
+![alt text](https://github.com/cabmeron/Kush-Carousel/blob/main/demo.gif)
